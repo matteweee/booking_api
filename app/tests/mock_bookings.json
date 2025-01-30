@@ -1,0 +1,44 @@
+[
+    {
+      "date_from": "2023-06-15",
+      "room_id": 1,
+      "user_id": 1,
+      "date_to": "2023-06-30",
+      "price": 24500
+    },
+    {
+      "date_from": "2023-06-25",
+      "room_id": 7,
+      "user_id": 1,
+      "date_to": "2023-07-10",
+      "price": 4300
+    },
+    {
+      "date_from": "2023-05-15",
+      "room_id": 1,
+      "user_id": 1,
+      "date_to": "2023-06-10",
+      "price": 24500
+    },
+    {
+      "date_from": "2026-03-10",
+      "room_id": 2,
+      "user_id": 1,
+      "date_to": "2026-03-20",
+      "price": 22450
+    },
+    {
+      "date_from": "2026-03-10",
+      "room_id": 2,
+      "user_id": 1,
+      "date_to": "2026-03-20",
+      "price": 22450
+    },
+    {
+      "date_from": "2026-03-10",
+      "room_id": 2,
+      "user_id": 1,
+      "date_to": "2026-03-20",
+      "price": 22450
+    }
+  ]

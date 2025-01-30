@@ -1,0 +1,10 @@
+[
+    {
+      "email": "test1@test.com",
+      "hashed_password": "$2b$12$/uTKj2RCQlKcV8eElZG4QOO1tA9ApP1TNfpQlWH1LQXr.WwWq3Z8u"
+    },
+    {
+      "email": "artem@test.com",
+      "hashed_password": "$2b$12$/uTKj2RCQlKcV8eElZG4QOO1tA9ApP1TNfpQlWH1LQXr.WwWq3Z8u"
+    }
+  ]
